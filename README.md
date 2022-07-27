@@ -33,5 +33,21 @@
   
 ## wireframe
 
-**home_page**
-  * ![home page](img/home_page.png)
+**home_page** 
+
+
+   ![home page](img/wireframe/home_page.PNG)
+
+**munu_page** 
+
+
+   ![munu page](img/wireframe/munu_page.PNG)
+
+
+
+**about_page** 
+
+
+   ![about page](img/wireframe/about_page.png)
+
+   
