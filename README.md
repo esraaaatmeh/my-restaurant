@@ -31,3 +31,7 @@
   * ![instagram logo](instagram.png)[Instagram](https://www.instigram.com/khanzaidjo/)
   * ![Twitter logo](twitter.png)[Twitter](https://www.Twitter.com/khanzaidjo/)
   
+## wireframe
+
+**home_page**
+  * ![home page](img/home_page.png)
